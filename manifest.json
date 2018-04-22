@@ -34,5 +34,6 @@
     "default_icon": "icon.png",
     "default_popup": "popup.html",
     "default_title": "WhatsApp Bot for the forgetful ones"
-  }
+  },
+  "homepage_url": "https://web.whatsapp.com/"
 }
